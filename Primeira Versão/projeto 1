@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang = "pt-BR">
+    <head>
+        <title> Rio de Janeiro - Cidade Maravilhosa </title>
+        <meta charset = "utf-8">
+        <style type = "text/css">
+            #titulo_do_texto{
+                color:rgb(57, 54, 63);
+                font-size: 35px;
+                font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                text-align: center;
+            }
+            .corpo_do_texto{
+                font-size: 18px;
+                font-family: 'Poppins', sans-serif;;
+                color:rgb(0, 0, 0);
+                line-height: 1.5;
+                letter-spacing: 1px;
+            }
+            @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+            body{
+                background-image: url(https://images7.alphacoders.com/583/583156.jpg);
+            }
+        </style>
+    </head>
+    <body>
+        <h1 id="titulo_do_texto"> Rio de Janeiro - A cidade maravilhosa </h1>
+        <div class = "corpo_do_texto">
+            <h2 style = "font-weight: bold;"> Contexto Histórico </h2>
+            <p class="corpo_do_texto"> Pelos idos do século XV, dispondo da avançada tecnologia da época, 
+                povos da Europa Ocidental lançaram suas embarcações pelas revoltas águas atlânticas – 
+                fato conhecido como Grandes Navegações. Nessa era, tida como a Era dos Descobrimentos, a 
+                cidade de São Sebastião do Rio de Janeiro entra na História quando caravelas portuguesas 
+                alcançaram pela primeira vez a região, com a expedição de 1501, comandada provavelmente por Gaspar 
+                de Lemos. Singrando as águas do Mar Sem Fim, margeando o litoral ainda desconhecido da América 
+                portuguesa, em 1º de janeiro de 1502 a tripulação se deparou com o que Américo Vespúcio 
+                (1454-1512) descreveu como um “grande espelho d’água, com entrada estreita e bem protegida”: 
+                a Baía de Guanabara. Décadas depois, nas terras do seu entorno, em meio às batalhas sangrentas 
+                para retomar a região ocupada por franceses, no dia 1º de março de 1565 seria fundada a cidade, 
+                sob a invocação de São Sebastião, padroeiro do rei de Portugal, D. Sebastião.</p>
+            <p class = "corpo_do_texto">
+                Um longo percurso, entre acertos e dificuldades, entre sonhos e vontades, seria trilhado pelos 
+                que construíram as suas vidas neste chão, enquanto órbita de Portugal, Capital Imperial, 
+                Distrito Federal, Estado-Capital ou Capital de Estado. Esta narrativa, construída por muitas 
+                vozes, conta a trajetória do espaço urbano sempre pautado pela forte presença da natureza: a do Rio 
+                de muitos janeiros, que se apresenta como um presente para o futuro.
+            </p>
+        </div>
+        <div class = "corpo_do_texto">
+            <h2 style = "font-weight: 900;"> O Rio de Janeiro nos dias atuais </h2>
+            <p>
+                O Rio de Janeiro é uma cidade localizada na região Sudeste do Brasil, banhada pelo Oceano Atlântico e conhecida por suas belas praias, montanhas e vida noturna agitada. A cidade é a segunda maior do país e um importante centro cultural, econômico e turístico.
+                Uma das principais atrações do Rio de Janeiro é o Cristo Redentor, uma estátua de Jesus Cristo com os braços abertos, localizada no topo do Morro do Corcovado, a 710 metros de altura. De lá, é possível ter uma vista panorâmica da cidade e da Baía de Guanabara.
+                Outra atração muito famosa é o Pão de Açúcar, uma formação rochosa que se ergue sobre a Baía de Guanabara e oferece uma vista deslumbrante da cidade. Para chegar ao topo do Pão de Açúcar, é necessário pegar um teleférico que parte da Praia Vermelha.
+                Além disso, o Rio de Janeiro é conhecido por suas praias, como Copacabana e Ipanema, que são famosas por sua beleza e por serem locais de encontro para jovens e turistas. A cidade também é famosa pelo seu Carnaval, um dos maiores do mundo, que atrai milhares de pessoas todos os anos.
+                O Rio de Janeiro também possui uma rica vida cultural, com museus como o Museu de Arte Moderna e o Museu Nacional de Belas Artes, e teatros como o Municipal e o João Caetano. A cidade também é famosa por sua música, com estilos como o samba e o funk carioca.
+                Enfim, o Rio de Janeiro é uma cidade incrível, cheia de atrações, cultura e história. Se você ainda não teve a oportunidade de visitá-la, recomendo muito que o faça. Tenho certeza de que irá se encantar com tudo o que essa cidade maravilhosa tem a oferecer!
+            </p>
+        </div>
+        <div class ="corpo_do_texto">
+            <h2 style = "font-weight: 900;"> Principais aspectos do Rio de Janeiro </h2>
+            <p>
+                O Rio de Janeiro é uma cidade com uma rica história, cultura e belezas naturais. Abaixo estão alguns dos principais aspectos do Rio de Janeiro:
+                Praias - As praias são, sem dúvida, um dos principais aspectos do Rio de Janeiro. As praias mais famosas da cidade são Copacabana, Ipanema e Leblon, que atraem turistas e moradores locais o ano todo. Além disso, a cidade possui outras praias menos conhecidas, mas igualmente encantadoras.
+                Cristo Redentor - O Cristo Redentor é uma das maiores atrações turísticas do Rio de Janeiro. A estátua de Jesus Cristo com os braços abertos fica no topo do Morro do Corcovado e oferece uma vista panorâmica da cidade.
+                Pão de Açúcar - Outra atração famosa da cidade é o Pão de Açúcar, uma formação rochosa que se ergue sobre a Baía de Guanabara. Para chegar ao topo do Pão de Açúcar, é necessário pegar um teleférico que parte da Praia Vermelha.
+                Carnaval - O Carnaval do Rio de Janeiro é um dos maiores e mais famosos do mundo, atraindo milhares de turistas todos os anos. A festa é conhecida pelos desfiles das escolas de samba, pelos blocos de rua e pela animação dos foliões.
+                Samba - O samba é um estilo musical e de dança muito popular no Rio de Janeiro. A cidade possui várias escolas de samba, que desfilam durante o Carnaval e realizam ensaios durante todo o ano.
+                Gastronomia - A culinária do Rio de Janeiro é uma mistura de sabores brasileiros e portugueses. A cidade é conhecida por pratos como a feijoada, o arroz de camarão e a moqueca de peixe.
+                Arquitetura - A arquitetura do Rio de Janeiro é uma mistura de estilos, desde prédios coloniais até modernos arranha-céus. Destacam-se o Teatro Municipal, o Museu de Arte Moderna e o Palácio do Catete.
+                Esses são apenas alguns dos principais aspectos que fazem do Rio de Janeiro uma cidade tão especial e única. Com sua rica história, cultura e beleza natural, o Rio de Janeiro é sem dúvida uma cidade que encanta a todos que a visitam.
+            </p>
+        </div>
+        <div class = "corpo_do_texto">
+            <h2> Conclusão </h2>
+            <p>
+                Concluindo, o Rio de Janeiro é uma cidade incrível e cheia de vida, que atrai turistas de todo o mundo com suas praias de areias brancas, sua música animada, sua culinária deliciosa, sua arquitetura diversificada e seus pontos turísticos icônicos, como o Cristo Redentor e o Pão de Açúcar. Com uma rica história e cultura, o Rio de Janeiro é uma cidade que transborda alegria e energia, seja durante o Carnaval ou em qualquer outra época do ano. Sem dúvida, uma visita ao Rio de Janeiro é uma experiência única e inesquecível que vale a pena ser vivida.
+            </p>  
+            </div>
+    </body>
+</html>
